@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "tooling for building web code from protobufs",
   "devDependencies": {
-    "ts-proto": "^1.82.3"
+    "ts-proto": "^1.181.2"
   },
   "overrides": {
     "elliptic": "^6.6.1"
