@@ -2,7 +2,7 @@
   "dependencies": {
     "@certusone/wormhole-sdk": "^0.10.18",
     "@coral-xyz/anchor": "^0.31.0",
-    "tsx": "^4.19.3"
+    "tsx": "^4.22.4"
   },
   "overrides": {
     "elliptic": "^6.6.1"
